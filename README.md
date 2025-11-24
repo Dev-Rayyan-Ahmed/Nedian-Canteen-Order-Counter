@@ -1,7 +1,7 @@
 # Nedian-Canteen-Order-Counter
 A CLI-based Canteen Ordering System using C Language.
 
-## Contributers:
+## Collaborators:
 - [Rayyan Ahmed](https://github.com/Dev-Rayyan-Ahmed)
 - [Ukasha Anwar](https://github.com/cyxabima)
 - [Abdul Mueed](https://github.com/Abdul-Mueed54)
